@@ -1,9 +1,7 @@
 # Nordic Loop — Data Infrastructure Design
 ### B2B AI Inventory Platform · PostgreSQL Schema + Synthetic Dataset
 
-This repository documents the data architecture behind **Nordic Loop**, a B2B SaaS platform that helps construction and property companies manage surplus materials — reducing procurement costs and CO2 emissions through internal reuse and external resale.
-
-It serves as a portfolio case study demonstrating schema design, domain modelling, and analytical SQL for a real product with genuine complexity.
+This repository documents the data architecture behind Nordic Loop, a B2B SaaS platform that helps construction and property companies manage surplus materials, reducing procurement costs and CO2 emissions through internal reuse and external resale.
 
 ---
 
