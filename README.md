@@ -100,7 +100,7 @@ LLM validation decisions are distributed as: **72% confirmed**, **20% overridden
 
 ## Analytical queries
 
-The schema is designed to support the questions a PM or growth analyst would actually ask. Some examples:
+Some representative queries against this schema:
 
 ```sql
 -- 1. LLM override rate by category
