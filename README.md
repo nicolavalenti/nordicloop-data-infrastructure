@@ -75,24 +75,24 @@ Each classification attempt creates a new row. This means model version improvem
 
 ## Synthetic dataset
 
-The seed data was generated to reflect realistic platform behaviour across a 14-month period (September 2023 – November 2024).
+The seed data was generated to reflect realistic platform behaviour across a 14-month period (May 2025 – March 2026).
 
 | Entity | Count |
 |---|---|
 | Organisations | 8 |
-| Users | 45 |
-| Projects | 34 |
+| Users | 39 |
+| Projects | 33 |
 | Material items | 500 |
-| AI classifications | 468 |
-| CO2 attributions | 426 |
-| Internal matches | 94 |
-| External listings | 120 |
-| External matches | 46 |
+| AI classifications | 471 |
+| CO2 attributions | 433 |
+| Internal matches | 109 |
+| External listings | 125 |
+| External matches | 51 |
 | Wishlists | 60 |
 
 Organisations are based on real Swedish construction and property companies (Skanska, NCC, Peab, Fabege, Castellum, etc.) with realistic org numbers. Material status distribution reflects a live platform: ~30% available, ~22% internally matched, ~15% externally listed, ~10% externally matched.
 
-LLM validation decisions are distributed as: **72% confirmed**, **20% overridden**, **8% rejected** — based on expected model performance at this stage of training.
+LLM validation decisions are distributed as: **72% confirmed**, **20% overridden**, **8% rejected**.
 
 ---
 
